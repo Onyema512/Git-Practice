@@ -3,6 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
+div{
+    display: flex;
+    justify-content: center;
+}
 .rep2{
     background-color: blue;
 }
